@@ -1,3 +1,3 @@
-# CTF practice
+# IT Learning
 
-This git is to take notes about different concepts in pentesting, CTF practice and cyber security in general.
+Este GIT está pensado para explicar conceptos relacionados con IT con un enfoque en sysadmin, redes y ciber seguridad. Así como notas, desafíos y resolución de algunas CTF.
